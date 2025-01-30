@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanSerafim01&show_icons=true&theme=radical)
 
-[![Jhonatan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSerafim01&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que uso no meu dia
 
@@ -17,3 +17,5 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
 </div>
+
+[![Jhonatan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSerafim01&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
