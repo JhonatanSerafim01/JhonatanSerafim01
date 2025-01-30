@@ -20,4 +20,4 @@
 ##
 [![Jhonatan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSerafim01&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-Sou um Programador apaixonado por criar interfaces intuitivas e experiências digitais memoráveis.
+Sou apaixonado por programação! Adoro criar interfaces interativas, resolver problemas com código e aprender novas tecnologias. Cada linha escrita é um passo para transformar ideias em realidade. 🚀
